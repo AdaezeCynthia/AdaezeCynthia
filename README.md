@@ -7,7 +7,7 @@ Front-end web developer
 Frontend Developer (React/TypeScript) building clean, responsive, performance-focused UIs with a strong UI-audit/QA mindset and Web3-friendly product experience.
 
 * 🌍  I work remote, worldwide dev
-* ✉️  You can contact me at [nackycynthia@gmail.com](mailto:nduadaezecynthiaa@gmail.com)
+* ✉️  You can contact me at [nduadaezecynthiaa@gmail.com](mailto:nduadaezecynthiaa@gmail.com)
 * 🧠  Reactjs, nextjs, typescript,tailwincss,Scss
 * 🤝  I'm open to collaborating on any Interesting projects
 * ⚡  I like Spongebob 
