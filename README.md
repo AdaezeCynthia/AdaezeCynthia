@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end web developer
 -----------------------
 
-My journey as a web developer started in the year 2022. Started with HTML ... now I've built a ton of responsive web apps, including games apps using CSS, JavaScript.... I am currently learning React. I am really excited about web development and i am excited to document this journey here
+Frontend Developer (React/TypeScript) building clean, responsive, performance-focused UIs with a strong UI-audit/QA mindset and Web3-friendly product experience.
 
-* 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [nackycynthia@gmail.com](mailto:nackycynthia@gmail.com)
-* 🧠  I'm learning React
+* 🌍  I work remote, worldwide dev
+* ✉️  You can contact me at [nackycynthia@gmail.com](mailto:nduadaezecynthiaa@gmail.com)
+* 🧠  Reactjs, nextjs, typescript,tailwincss,Scss
 * 🤝  I'm open to collaborating on any Interesting projects
-* ⚡  I like Spongebob and i think Cillian Murphy is cute
+* ⚡  I like Spongebob 
 
 ### Skills
 
